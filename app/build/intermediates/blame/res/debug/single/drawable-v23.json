@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\lihen\\StudioProjects\\TensorflowCameraDemo\\demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v23\\abc_control_background_material.xml",
+        "source": "C:\\Users\\lihen\\.android\\build-cache\\2a50ce0cb42030ea93d1317b208e613799297710\\output\\res\\drawable-v23\\abc_control_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\lihen\\zombie\\tensorflow-master\\tensorflow-master\\tensorflow\\contrib\\lite\\java\\demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v23\\abc_control_background_material.xml",
+        "source": "C:\\Users\\lihen\\.android\\build-cache\\2a50ce0cb42030ea93d1317b208e613799297710\\output\\res\\drawable-v23\\abc_control_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\lihen\\StudioProjects\\TensorflowCameraDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v23\\abc_control_background_material.xml",
+        "source": "C:\\Users\\lihen\\.android\\build-cache\\2a50ce0cb42030ea93d1317b208e613799297710\\output\\res\\drawable-v23\\abc_control_background_material.xml"
+    }
+]

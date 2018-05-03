@@ -1,0 +1,98 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\lihen\StudioProjects\TensorflowCameraDemo\app\src\main\AndroidManifest.xml:18:1-42:12
+	package
+		ADDED from C:\Users\lihen\StudioProjects\TensorflowCameraDemo\app\src\main\AndroidManifest.xml:19:5-51
+		INJECTED from C:\Users\lihen\StudioProjects\TensorflowCameraDemo\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\lihen\StudioProjects\TensorflowCameraDemo\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\lihen\StudioProjects\TensorflowCameraDemo\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\lihen\StudioProjects\TensorflowCameraDemo\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\lihen\StudioProjects\TensorflowCameraDemo\app\src\main\AndroidManifest.xml:18:11-69
+	android:versionCode
+		INJECTED from C:\Users\lihen\StudioProjects\TensorflowCameraDemo\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\lihen\StudioProjects\TensorflowCameraDemo\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\lihen\StudioProjects\TensorflowCameraDemo\app\src\main\AndroidManifest.xml:21:5-65
+	android:name
+		ADDED from C:\Users\lihen\StudioProjects\TensorflowCameraDemo\app\src\main\AndroidManifest.xml:21:22-62
+uses-feature#android.hardware.camera
+ADDED from C:\Users\lihen\StudioProjects\TensorflowCameraDemo\app\src\main\AndroidManifest.xml:23:5-60
+	android:name
+		ADDED from C:\Users\lihen\StudioProjects\TensorflowCameraDemo\app\src\main\AndroidManifest.xml:23:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from C:\Users\lihen\StudioProjects\TensorflowCameraDemo\app\src\main\AndroidManifest.xml:24:5-70
+	android:name
+		ADDED from C:\Users\lihen\StudioProjects\TensorflowCameraDemo\app\src\main\AndroidManifest.xml:24:19-67
+uses-sdk
+ADDED from C:\Users\lihen\StudioProjects\TensorflowCameraDemo\app\src\main\AndroidManifest.xml:26:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\lihen\.android\build-cache\b596eb4e4278d43d6c339fcd3fa4469e3ead2603\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:design:25.2.0] C:\Users\lihen\.android\build-cache\d3985d1aba57d77601098f7347e59477ae55913b\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.2.0] C:\Users\lihen\.android\build-cache\2a50ce0cb42030ea93d1317b208e613799297710\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] C:\Users\lihen\.android\build-cache\bf05f2fb0bd49e63a6d1f304aa4ae015131752e6\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.2.0] C:\Users\lihen\.android\build-cache\ca91162cfdb3a738dba6bb078e50e51361e0f6a3\output\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:recyclerview-v7:25.2.0] C:\Users\lihen\.android\build-cache\e395f72c17dcb4e1f6a068556afe10ac6b8cb9db\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.2.0] C:\Users\lihen\.android\build-cache\2d1afda6cd849efb67166161eea0a6b8450d3d54\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v13:25.2.0] C:\Users\lihen\.android\build-cache\7451fe1c3496646b45cb65630b8f92700339398b\output\AndroidManifest.xml:21:5-23:55
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\lihen\.android\build-cache\8fd4be9b2050b9ee4b3d1987b17cd20538ab8967\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\lihen\.android\build-cache\7bb9f865a39207f539d2f98e02e91286a26f8d55\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\lihen\.android\build-cache\77dfefe1baa4446ddd0f4d6ee3007d4ad6347a19\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\lihen\.android\build-cache\47cef4e1960848a0290844b18accd2bf1ad67e93\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\lihen\.android\build-cache\2773bf4c76e8fa94e4783acc15397bd673d68f07\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\lihen\.android\build-cache\78d8d50467ed5091205534cf8c5dc8256eb313bc\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.2.0] C:\Users\lihen\.android\build-cache\d3985d1aba57d77601098f7347e59477ae55913b\output\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from C:\Users\lihen\StudioProjects\TensorflowCameraDemo\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\lihen\StudioProjects\TensorflowCameraDemo\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from C:\Users\lihen\StudioProjects\TensorflowCameraDemo\app\src\main\AndroidManifest.xml:26:15-41
+		INJECTED from C:\Users\lihen\StudioProjects\TensorflowCameraDemo\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\lihen\StudioProjects\TensorflowCameraDemo\app\src\main\AndroidManifest.xml
+application
+ADDED from C:\Users\lihen\StudioProjects\TensorflowCameraDemo\app\src\main\AndroidManifest.xml:28:5-40:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\lihen\.android\build-cache\b596eb4e4278d43d6c339fcd3fa4469e3ead2603\output\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:design:25.2.0] C:\Users\lihen\.android\build-cache\d3985d1aba57d77601098f7347e59477ae55913b\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:25.2.0] C:\Users\lihen\.android\build-cache\2a50ce0cb42030ea93d1317b208e613799297710\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] C:\Users\lihen\.android\build-cache\bf05f2fb0bd49e63a6d1f304aa4ae015131752e6\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.2.0] C:\Users\lihen\.android\build-cache\ca91162cfdb3a738dba6bb078e50e51361e0f6a3\output\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:transition:25.2.0] C:\Users\lihen\.android\build-cache\2d1afda6cd849efb67166161eea0a6b8450d3d54\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v13:25.2.0] C:\Users\lihen\.android\build-cache\7451fe1c3496646b45cb65630b8f92700339398b\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\lihen\.android\build-cache\8fd4be9b2050b9ee4b3d1987b17cd20538ab8967\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\lihen\.android\build-cache\7bb9f865a39207f539d2f98e02e91286a26f8d55\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\lihen\.android\build-cache\77dfefe1baa4446ddd0f4d6ee3007d4ad6347a19\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\lihen\.android\build-cache\47cef4e1960848a0290844b18accd2bf1ad67e93\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\lihen\.android\build-cache\2773bf4c76e8fa94e4783acc15397bd673d68f07\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\lihen\.android\build-cache\78d8d50467ed5091205534cf8c5dc8256eb313bc\output\AndroidManifest.xml:25:5-20
+MERGED from [org.tensorflow:tensorflow-lite:0.1.7] C:\Users\lihen\.android\build-cache\b1e4df97dc644fc8b9f737f0f3be506338a77f6a\output\AndroidManifest.xml:4:5-5:19
+	android:label
+		ADDED from C:\Users\lihen\StudioProjects\TensorflowCameraDemo\app\src\main\AndroidManifest.xml:29:9-41
+	android:allowBackup
+		ADDED from C:\Users\lihen\StudioProjects\TensorflowCameraDemo\app\src\main\AndroidManifest.xml:28:18-44
+	android:icon
+		ADDED from C:\Users\lihen\StudioProjects\TensorflowCameraDemo\app\src\main\AndroidManifest.xml:30:9-45
+	android:theme
+		ADDED from C:\Users\lihen\StudioProjects\TensorflowCameraDemo\app\src\main\AndroidManifest.xml:31:9-45
+activity#com.example.android.tflitecamerademo.CameraActivity
+ADDED from C:\Users\lihen\StudioProjects\TensorflowCameraDemo\app\src\main\AndroidManifest.xml:33:9-39:20
+	android:label
+		ADDED from C:\Users\lihen\StudioProjects\TensorflowCameraDemo\app\src\main\AndroidManifest.xml:34:19-51
+	android:name
+		ADDED from C:\Users\lihen\StudioProjects\TensorflowCameraDemo\app\src\main\AndroidManifest.xml:33:19-85
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\lihen\StudioProjects\TensorflowCameraDemo\app\src\main\AndroidManifest.xml:35:13-38:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\lihen\StudioProjects\TensorflowCameraDemo\app\src\main\AndroidManifest.xml:36:17-69
+	android:name
+		ADDED from C:\Users\lihen\StudioProjects\TensorflowCameraDemo\app\src\main\AndroidManifest.xml:36:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\lihen\StudioProjects\TensorflowCameraDemo\app\src\main\AndroidManifest.xml:37:17-77
+	android:name
+		ADDED from C:\Users\lihen\StudioProjects\TensorflowCameraDemo\app\src\main\AndroidManifest.xml:37:27-74
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+IMPLIED from C:\Users\lihen\StudioProjects\TensorflowCameraDemo\app\src\main\AndroidManifest.xml:18:1-42:12 reason: org.tensorflow.lite has a targetSdkVersion < 4
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from C:\Users\lihen\StudioProjects\TensorflowCameraDemo\app\src\main\AndroidManifest.xml:18:1-42:12 reason: org.tensorflow.lite has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from C:\Users\lihen\StudioProjects\TensorflowCameraDemo\app\src\main\AndroidManifest.xml:18:1-42:12 reason: org.tensorflow.lite requested WRITE_EXTERNAL_STORAGE

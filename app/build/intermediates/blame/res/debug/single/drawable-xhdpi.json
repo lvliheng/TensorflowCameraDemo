@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\lihen\\StudioProjects\\TensorflowCameraDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_launcher.png",
+        "source": "C:\\Users\\lihen\\StudioProjects\\TensorflowCameraDemo\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\lihen\\StudioProjects\\TensorflowCameraDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_action_info.png",
+        "source": "C:\\Users\\lihen\\StudioProjects\\TensorflowCameraDemo\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_info.png"
+    },
+    {
+        "merged": "C:\\Users\\lihen\\StudioProjects\\TensorflowCameraDemo\\demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_action_info.png",
+        "source": "C:\\Users\\lihen\\StudioProjects\\TensorflowCameraDemo\\demo\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_info.png"
+    },
+    {
+        "merged": "C:\\Users\\lihen\\zombie\\tensorflow-master\\tensorflow-master\\tensorflow\\contrib\\lite\\java\\demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_action_info.png",
+        "source": "C:\\Users\\lihen\\zombie\\tensorflow-master\\tensorflow-master\\tensorflow\\contrib\\lite\\java\\demo\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_info.png"
+    },
+    {
+        "merged": "C:\\Users\\lihen\\StudioProjects\\TensorflowCameraDemo\\demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_launcher.png",
+        "source": "C:\\Users\\lihen\\StudioProjects\\TensorflowCameraDemo\\demo\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\lihen\\zombie\\tensorflow-master\\tensorflow-master\\tensorflow\\contrib\\lite\\java\\demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_launcher.png",
+        "source": "C:\\Users\\lihen\\zombie\\tensorflow-master\\tensorflow-master\\tensorflow\\contrib\\lite\\java\\demo\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    }
+]

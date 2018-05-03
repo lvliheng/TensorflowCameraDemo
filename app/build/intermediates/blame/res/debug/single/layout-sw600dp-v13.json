@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\lihen\\zombie\\tensorflow-master\\tensorflow-master\\tensorflow\\contrib\\lite\\java\\demo\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\design_layout_snackbar.xml",
+        "source": "C:\\Users\\lihen\\.android\\build-cache\\d3985d1aba57d77601098f7347e59477ae55913b\\output\\res\\layout-sw600dp-v13\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\lihen\\StudioProjects\\TensorflowCameraDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\design_layout_snackbar.xml",
+        "source": "C:\\Users\\lihen\\.android\\build-cache\\d3985d1aba57d77601098f7347e59477ae55913b\\output\\res\\layout-sw600dp-v13\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\lihen\\StudioProjects\\TensorflowCameraDemo\\demo\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\design_layout_snackbar.xml",
+        "source": "C:\\Users\\lihen\\.android\\build-cache\\d3985d1aba57d77601098f7347e59477ae55913b\\output\\res\\layout-sw600dp-v13\\design_layout_snackbar.xml"
+    }
+]

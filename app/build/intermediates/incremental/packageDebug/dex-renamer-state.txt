@@ -1,0 +1,4 @@
+#Thu May 03 15:45:25 CST 2018
+base.0=C\:\\Users\\lihen\\StudioProjects\\TensorflowCameraDemo\\app\\build\\intermediates\\transforms\\jack\\debug\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=C\:\\Users\\lihen\\StudioProjects\\TensorflowCameraDemo\\app\\build\\intermediates\\transforms\\jack\\debug\\folders\\1000\\1f\\main\\classes.dex
